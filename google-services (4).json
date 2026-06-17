@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608182979127",
+    "project_id": "korommipress",
+    "storage_bucket": "korommipress.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608182979127:android:290060353490ba28238db2",
+        "android_client_info": {
+          "package_name": "Korommipress.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAZBm5L7PFohhhbzLd4S0NX1XC0VVY6Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
